@@ -1,0 +1,15 @@
+{
+  "name": "node_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julie",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "inquirer": "^8.2.4"
+  }
+}
